@@ -4,8 +4,8 @@ stages:
     cmd: python stage_01.py
     deps:
     - path: stage_01.py
-      md5: effec87fc096f0c908b92912504d80b4
-      size: 84
+      md5: a6458e167609559e36589155ba28501e
+      size: 99
     outs:
     - path: artifacts01.txt
       md5: 74f0419c675672b2151bd6891f8bb443
