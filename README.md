@@ -32,3 +32,7 @@ dvc init
 create dvc.yml
 -------------
 touch dvc.yml
+
+to see DAG in dvc
+-----------------
+dvc dag
